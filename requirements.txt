@@ -4,3 +4,8 @@ pandas
 joblib
 scikit-learn
 wtforms
+flask-wtf
+numpy
+matplotlib
+seaborn
+requests
