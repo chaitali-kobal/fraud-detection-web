@@ -1,0 +1,6 @@
+flask
+gunicorn
+pandas
+joblib
+scikit-learn
+wtforms
